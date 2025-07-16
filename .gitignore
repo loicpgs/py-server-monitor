@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.csv
+
+# Vagrant
+.vagrant/
+*.box
+
+# Environnement / dépendances
+env/
+venv/
+*.egg-info/
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+.vscode/
