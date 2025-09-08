@@ -31,8 +31,8 @@ Ce projet est idéal pour un administrateur système ou un étudiant en TSSR sou
 
 ## 🚀 Installation
 
-1. Cloner le dépôt ou copier le script `monitor.py`  
-2. Installer les dépendances :
+### 1. Cloner le dépôt ou copier le script `monitor.py`  
+### 2. Installer les dépendances :
 
 pip install psutil
 
@@ -40,25 +40,25 @@ pip install psutil
 
 python monitor.py
 
-📈 Exemple de sortie
+**📈 Exemple de sortie**
 
 [2025-07-16 13:50:29]
 CPU: 1.2% | RAM: 52.6% | Disk: 20.6% | Swap: 1.7%
 Net Sent: 0.00 MB/s | Net Recv: 0.00 MB/s
 Aucune alerte.
 
-🔧 Personnalisation
+### 🔧 Personnalisation ###
 
-*Modifier les seuils d’alerte dans le script pour adapter la sensibilité
+**Modifier les seuils d’alerte**dans le script pour adapter la sensibilité
 
-*Ajouter de nouvelles métriques ou des notifications (email, webhook, etc.)
+**Ajouter de nouvelles métriques** ou des notifications (email, webhook, etc.)
 
-*Intégrer dans un cron job ou un service pour une supervision continue
+**Intégrer dans un cron job** ou un service pour une supervision continue
 
-📚 Ressources
+## 📚 Ressources
 
-*psutil documentation
-*Python officiel
+**psutil documentation**
+**Python officiel**
 
 📝 Licence
 
